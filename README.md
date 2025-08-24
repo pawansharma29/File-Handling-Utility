@@ -51,3 +51,7 @@
      --> Successfully developed a File Handling Utility that can read, write, and modify text files.
      --> Learned practical applications of file operations and how they are relevant in real-world scenarios.
      --> Strengthened understanding of Java I/O and gained exposure to concepts that can be scaled to larger, more complex projects.
+
+   #OUTPUT
+
+   <img width="2560" height="1357" alt="Image" src="https://github.com/user-attachments/assets/0d502361-d902-409b-9772-3a619f5c4a70" />
